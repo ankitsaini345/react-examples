@@ -7,7 +7,6 @@ export class UseStateExample extends React.Component<any, any> {
     }
 
     changeCount(val: any) {
-
         this.setState((prevState: any) => ({ count: prevState.count + val }))
     }
 
