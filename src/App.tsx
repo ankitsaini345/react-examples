@@ -1,5 +1,6 @@
 import './App.css'
-import UseCallback from './HooksExample/useCallbackExample'
+// import UseCallback from './HooksExample/useCallbackExample'
+import UseContextParent from './HooksExample/useContext/UseContextParent'
 // import { UseEffectClassEx } from './HooksExample/UseEffectClass'
 // import UseEffectFunctionEx from './HooksExample/UseEffectFunctionEx'
 // import UseMemoEx from './HooksExample/UseMemoEx'
@@ -10,7 +11,7 @@ function App() {
 
   return (
     <>
-      <UseCallback />
+      <UseContextParent />
     </>
   )
 }
