@@ -1,5 +1,7 @@
 import './App.css'
-import UseIdEx from './HooksExample/UseIdEx'
+// import UseIdEx from './HooksExample/UseIdEx'
+// import ForwardRefEx from './HooksExample/UseImparativeEx/FarwardRefEx'
+import UseImparativeEx from './HooksExample/UseImparativeEx/UseImparativeEx'
 // import UseCallback from './HooksExample/useCallbackExample'
 // import UseContextParent from './HooksExample/useContext/UseContextParent'
 // import UseReducerEx from './HooksExample/useReducer/UseRecucerEx'
@@ -14,7 +16,7 @@ function App() {
 
   return (
     <>
-      <UseIdEx />
+      <UseImparativeEx />
     </>
   )
 }
