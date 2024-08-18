@@ -1,7 +1,8 @@
 import './App.css'
 // import UseCallback from './HooksExample/useCallbackExample'
 // import UseContextParent from './HooksExample/useContext/UseContextParent'
-import UseReducerEx from './HooksExample/useReducer/UseRecucerEx'
+// import UseReducerEx from './HooksExample/useReducer/UseRecucerEx'
+import UseREfEx from './HooksExample/useRef/UseRefEx'
 // import { UseEffectClassEx } from './HooksExample/UseEffectClass'
 // import UseEffectFunctionEx from './HooksExample/UseEffectFunctionEx'
 // import UseMemoEx from './HooksExample/UseMemoEx'
@@ -12,7 +13,7 @@ function App() {
 
   return (
     <>
-      <UseReducerEx />
+      <UseREfEx />
     </>
   )
 }
