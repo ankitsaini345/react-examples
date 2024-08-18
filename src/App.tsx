@@ -1,5 +1,6 @@
 import './App.css'
-import UseDefferedValueEx from './HooksExample/UseDefferedValueEx'
+// import UseDefferedValueEx from './HooksExample/UseDefferedValueEx'
+import UseTransitionEx from './HooksExample/UseTransitionEx'
 // import UseIdEx from './HooksExample/UseIdEx'
 // import ForwardRefEx from './HooksExample/UseImparativeEx/FarwardRefEx'
 // import UseImparativeEx from './HooksExample/UseImparativeEx/UseImparativeEx'
@@ -17,7 +18,7 @@ function App() {
 
   return (
     <>
-      <UseDefferedValueEx />
+      <UseTransitionEx />
     </>
   )
 }
